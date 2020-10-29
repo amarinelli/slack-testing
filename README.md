@@ -1,5 +1,2 @@
-# slack-testing-2
-Nonsense repo for testing
-
-asdfsdf
-adssd
+# slack-testing
+Repo for testing
